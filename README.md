@@ -22,6 +22,6 @@ As senhas são guardadas após passarem por algorítmo de hash, utilizamos o SHA
 Utilizamos jquery, popper, bootstrap, fontawesome e datatables nesse trabalho para focarmos nas regras de negócio e aproveitarmos o que já havia pronto.
 
 Alunos: 
-- Alan Bernadino da Silva
+- Alan Bernardino da Silva
 - Maurici Ferreira Junior
 - Thiago Giannaccini Leal

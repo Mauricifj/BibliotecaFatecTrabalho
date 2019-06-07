@@ -67,7 +67,7 @@ CALL adicionarAutorEmLivro((SELECT ID FROM LIVRO WHERE TITULO = 'O Retorno do Re
 CALL adicionarUsuario('Paulo Cândido', 'paulo', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'ADMIN');
 
 -- USUARIOS --
-CALL adicionarUsuario('Alan Bernadino da Silva', 'alan', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'USUARIO');
+CALL adicionarUsuario('Alan Bernardino da Silva', 'alan', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'USUARIO');
 CALL adicionarUsuario('Maurici Ferreira Junior', 'maurici', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'USUARIO');
 CALL adicionarUsuario('Thiago Giannaccini Leal', 'thiago', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'USUARIO');
 
