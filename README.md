@@ -19,4 +19,9 @@ Os usuários "alan", "thiago" e "maurici" com a senha "123456" não tem acesso a
 
 As senhas são guardadas após passarem por algorítmo de hash, utilizamos o SHA-1.
 
-Utilizamos jquery, popper, bootstrap, fontawesome e datatables nesse trabalho para focarmos nas regras de negócio e aproveitarmos o que já havia pronto.  
+Utilizamos jquery, popper, bootstrap, fontawesome e datatables nesse trabalho para focarmos nas regras de negócio e aproveitarmos o que já havia pronto.
+
+Alunos: 
+- Alan Bernadino da Silva
+- Maurici Ferreira Junior
+- Thiago Giannaccini Leal
