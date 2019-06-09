@@ -7,7 +7,7 @@
 <script>
     $(document).ready(() => {
         if (this.location.pathname.includes('home')) {
-            $('a[href*="/"]').parent().addClass('active');
+            $('a[href*="/home"]').parent().addClass('active');
         }
         if (this.location.pathname.includes('livros')) {
             $('a[href*="/livros"]').parent().addClass('active');
@@ -21,7 +21,6 @@
         if (this.location.pathname.includes('usuarios')) {
             $('a[href*="/usuarios"]').parent().addClass('active');
         }
-        // $('a[href*="' + this.location.pathname + '"]').parent().addClass('active');
     });
 </script>
 </body>

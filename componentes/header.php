@@ -92,7 +92,7 @@ echo '
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item mx-2">
-                        <a class="nav-link" href="/">HOME</a>
+                        <a class="nav-link" href="/home">HOME</a>
                     </li>
                     <li class="nav-item mx-2">
                         <a class="nav-link" href="/livros/">LIVROS</a>
