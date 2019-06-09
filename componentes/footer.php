@@ -1,7 +1,7 @@
 </main>
 <footer class="footer mt-auto py-3 text-center bg-dark">
     <div class="container">
-        <span class="text-white">Desenvolvido por <a class="github" href="https://github.com/alanbernardino" target="_blank">Alan Bernadino</a>, <a class="github" href="https://github.com/joseoliveira89" target="_blank">José Clebson</a>, <a class="github" href="https://github.com/luizhcarminati" target="_blank">Luiz Henrique</a>, <a class="github" href="https://github.com/mauricifj" target="_blank">Maurici</a> e <a class="github" href="https://github.com/Thiagogiannaccini" target="_blank">Thiago</a></span>
+        <span class="text-white">Desenvolvido por <a class="github" href="https://github.com/alanbernardino" target="_blank">Alan Bernadino</a>, <a class="github" href="https://github.com/mauricifj" target="_blank">Maurici</a> e <a class="github" href="https://github.com/Thiagogiannaccini" target="_blank">Thiago</a></span>
     </div>
 </footer>
 <script>
