@@ -21,7 +21,10 @@ try {
                 <hr/>
 
                 <p><a href="../index.php" class="btn btn-secondary m-2 float-left mb-4">Voltar</a></p>
-                <p><a href="adicionar.php" class="btn btn-primary m-2 float-right">Adicionar</a></p>
+
+                <?php if (isset($_SESSION['logado'])) { ?>
+                    <p><a href="adicionar.php" class="btn btn-primary m-2 float-right">Adicionar</a></p>
+                <?php } ?>
 
                 <table id="tabelaAutores" class="table table-responsive-md">
                     <thead>
